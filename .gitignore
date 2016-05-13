@@ -10,9 +10,6 @@
 _obj
 _test
 
-build/out
-lib/*
-
 
 # Architecture specific extensions/prefixes
 *.[568vq]
